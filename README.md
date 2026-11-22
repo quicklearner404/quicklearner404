@@ -1,6 +1,6 @@
 ## Fatima Kashif
 
-I'm a final-year Computer Science student at FAST-NUCES (graduating 2026), focused on NLP, LLM agents and retrieval-augmented generation.
+I'm a final-year Computer Science student at FAST-NUCES (graduating 2027), focused on NLP, LLM agents and retrieval-augmented generation.
 
 Most of my work sits between building models and checking that they actually work: fine-tuning and serving transformer models, writing evaluations that hold up to scrutiny, and making results reproducible in CI. I'm looking for roles in applied ML and NLP engineering.
 
@@ -22,3 +22,5 @@ Python, PyTorch, Hugging Face Transformers, ONNX Runtime, spaCy, scikit-learn, F
 ### Links
 
 [Hugging Face](https://huggingface.co/quicklearner404)
+[LinkedIn](https://www.linkedin.com/in/fatima-kashif-391410296/)
+
